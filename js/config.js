@@ -4,5 +4,5 @@
 window.LOVYRN_CONFIG = {
   gtmId: "GTM-XXXXXXX",
   clarityId: "XXXXXXXXXX",
-  formEndpoint: "https://DMTRBELY.github.io/LOVYRN/"
+  formEndpoint: "REPLACE_ME"
 };
