@@ -1,8 +1,6 @@
-/* LOVYRN configuration
-   Replace these placeholders only after creating the relevant accounts.
-*/
+/* LOVYRN configuration */
 window.LOVYRN_CONFIG = {
- gtmId: "GTM-TNMBWMDJ",
+  gtmId: "GTM-TNMBWMDJ",
   clarityId: "XXXXXXXXXX",
   formEndpoint: "REPLACE_ME"
 };
